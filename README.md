@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dianacaballeroj
 - 👀 I’m interested in fitness, cats, video games, cooking shows, Crypto, astrology ✨✨
 - 🌱 I’m currently learning SQL language
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me caballero847@hotmail.com or DM me!
 
 <!---
