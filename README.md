@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @dianacaballeroj
+- 👋 Hi, I’m Diana Caballero
 - 👀 I’m interested in fitness, cats, video games, cooking shows, Crypto, astrology ✨✨
-- 🌱 I’m currently learning SQL language
+- 🕮 Currently reading 'Uncolonizing Latinas' by Valeria Aloe.
+- 🌱 I’m currently learning SQL language, and Data Analytics
+- 💁🏽‍♀️ Will learn Python, R next.
 - 📫 How to reach me caballero847@hotmail.com or DM me!
 
 <!---
